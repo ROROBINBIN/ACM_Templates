@@ -68,7 +68,7 @@ void cut(int x,int y)           //删边
     f[x]=r[y]=0;
 }
 
-int quiry(int z,int y)           //查询两点之间权最大的点
+int query(int z,int y)           //查询两点之间权最大的点
 {
     if(!find(z,y))return 2e9;
     root(z);

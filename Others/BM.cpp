@@ -1,3 +1,5 @@
+//要求给出*线性递推式*的前几项，初项数量要大于递推式项数
+
 #include <cstdio>
 #include <vector>
 #include <cassert>
